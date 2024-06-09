@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\estudo C#\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj": {}
+    "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj": {}
   },
   "projects": {
-    "E:\\estudo C#\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj": {
+    "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj",
+        "projectUniqueName": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj",
         "projectName": "Fina.Web",
-        "projectPath": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj",
+        "projectPath": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Web\\Fina.Web.csproj",
         "packagesPath": "C:\\Users\\joaoG\\.nuget\\packages\\",
-        "outputPath": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Web\\obj\\",
+        "outputPath": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

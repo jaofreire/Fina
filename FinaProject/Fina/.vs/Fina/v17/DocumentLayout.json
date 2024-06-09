@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\estudo C#\\FinaProject\\Fina\\",
+  "WorkspaceRootPath": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\gettransactionbyperiodrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\gettransactionbyperiodrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\updatetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\updatetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\getbyidtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\getbyidtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\getalltransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\getalltransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\deletetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\deletetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\transactions\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\transactions\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\finaproject\\fina\\fina.core\\requests\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,93 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateTransactionRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\UpdateTransactionRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\UpdateTransactionRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\UpdateTransactionRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\UpdateTransactionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:40.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetTransactionByPeriodRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetTransactionByPeriodRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\GetTransactionByPeriodRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetTransactionByPeriodRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\GetTransactionByPeriodRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Program.cs",
+              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Program.cs",
+              "RelativeToolTip": "Fina.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:30.149Z",
+              "WhenOpened": "2024-06-09T01:46:44.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetByIdTransactionRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetByIdTransactionRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\GetByIdTransactionRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetByIdTransactionRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\GetByIdTransactionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Fina.Core\\Responses\\PagedResponse.cs",
+              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\PagedResponse.cs",
+              "RelativeToolTip": "Fina.Core\\Responses\\PagedResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:27.172Z",
+              "WhenOpened": "2024-06-09T01:32:36.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetAllTransactionRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetAllTransactionRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\GetAllTransactionRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\GetAllTransactionRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\GetAllTransactionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Fina.Core\\Responses\\Response.cs",
+              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\Response.cs",
+              "RelativeToolTip": "Fina.Core\\Responses\\Response.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:25.532Z",
+              "WhenOpened": "2024-06-08T16:34:52.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteTransactionRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\DeleteTransactionRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\DeleteTransactionRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\DeleteTransactionRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\DeleteTransactionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CategoryHandler.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Handlers\\CategoryHandler.cs",
+              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeToolTip": "Fina.Api\\Handlers\\CategoryHandler.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:23.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateTransactionRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\CreateTransactionRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Transactions\\CreateTransactionRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\Transactions\\CreateTransactionRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Transactions\\CreateTransactionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:34:13.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PagedRequest.cs",
-              "DocumentMoniker": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\PagedRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\PagedRequest.cs",
-              "ToolTip": "E:\\estudo C#\\FinaProject\\Fina\\Fina.Core\\Requests\\PagedRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\PagedRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:27:37.211Z",
+              "WhenOpened": "2024-06-08T16:21:39.701Z",
               "EditorCaption": ""
             }
           ]

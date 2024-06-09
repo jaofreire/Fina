@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Fina.Core.Responses
 {
-    public abstract class PagedResponse<TData> : Response<TData>
+    public class PagedResponse<TData> : Response<TData>
     {
         [JsonConstructor]
         public PagedResponse(TData? data, int totalDataCount, int currentPage = 1, int pageSize = 25) : base(data)
