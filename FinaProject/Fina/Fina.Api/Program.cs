@@ -16,6 +16,7 @@ builder.Services.AddEntityFrameworkSqlServer().AddDbContext<FinaDbContext>(o =>
 });
 
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
+builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
 
 var app = builder.Build();
 

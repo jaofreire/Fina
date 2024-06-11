@@ -36,6 +36,7 @@ namespace Fina.Api.Handlers
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException);
 
@@ -57,6 +58,8 @@ namespace Fina.Api.Handlers
             }
             catch (Exception ex)
             {
+                
+                Console.WriteLine(ex.StackTrace);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException);
                 return new Response<Category?>(null, 500, $"There is not possible found the category with Id: {modelRequest.Id}");
@@ -80,6 +83,7 @@ namespace Fina.Api.Handlers
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException);
                 return new Response<Category?>(null, 500, "There is not possible create the category");
@@ -106,6 +110,7 @@ namespace Fina.Api.Handlers
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException);
 
@@ -131,6 +136,7 @@ namespace Fina.Api.Handlers
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException);
                 return new Response<Category?>(null, 500, "There is not possible delete the category");
