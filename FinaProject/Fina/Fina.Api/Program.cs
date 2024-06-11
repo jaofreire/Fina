@@ -20,6 +20,10 @@ builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
 
 var app = builder.Build();
 
+app.MapPost("/", (CreateCategoryRequest modelRequest, ICategoryHandler handler)
+    => handler.CreateAsync(modelRequest));
+
+
 
 if (app.Environment.IsDevelopment())
 {

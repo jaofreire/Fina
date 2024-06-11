@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69846000-B3CC-4AAF-97A8-B7522BFC0494}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|e:\\estudo c#\\fina-repository\\fina\\finaproject\\fina\\fina.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE4A10F-27C1-41D8-9897-C5DA36631089}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,66 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionHandler.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\TransactionHandler.cs",
-              "RelativeDocumentMoniker": "Fina.Api\\Handlers\\TransactionHandler.cs",
-              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\TransactionHandler.cs",
-              "RelativeToolTip": "Fina.Api\\Handlers\\TransactionHandler.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Title": "CreateCategoryEndpoint.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\EndPoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\EndPoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\EndPoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeToolTip": "Fina.Api\\EndPoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:57:55.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryHandler.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\CategoryHandler.cs",
-              "RelativeDocumentMoniker": "Fina.Api\\Handlers\\CategoryHandler.cs",
-              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Handlers\\CategoryHandler.cs",
-              "RelativeToolTip": "Fina.Api\\Handlers\\CategoryHandler.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:21:39.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Fina.Api\\Program.cs",
-              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Api\\Program.cs",
-              "RelativeToolTip": "Fina.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:46:44.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PagedResponse.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\PagedResponse.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Responses\\PagedResponse.cs",
-              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\PagedResponse.cs",
-              "RelativeToolTip": "Fina.Core\\Responses\\PagedResponse.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T01:32:36.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Response.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\Response.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Responses\\Response.cs",
-              "ToolTip": "E:\\estudo C#\\Fina-Repository\\Fina\\FinaProject\\Fina\\Fina.Core\\Responses\\Response.cs",
-              "RelativeToolTip": "Fina.Core\\Responses\\Response.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:34:52.24Z",
+              "WhenOpened": "2024-06-11T20:13:54.924Z",
               "EditorCaption": ""
             }
           ]
